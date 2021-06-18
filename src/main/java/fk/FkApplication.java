@@ -11,6 +11,8 @@ public class FkApplication {
 
         System.out.println("srpintbooot启动成功！");
 
+        //测试推送到github
+
 
     }
 
